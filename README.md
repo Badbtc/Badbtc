@@ -1,3 +1,7 @@
+ body {
+  background-color: #9b1c31 !important;
+  background-image: linear-gradient(to bottom, #9b1c31, black) !important;
+} 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=FF0000&width=435&lines=Bad+btc+is+Here++!" alt="Typing SVG" /></a>
 
@@ -16,7 +20,4 @@ The code in this repository is a simple way to illustrate how the block subsidy 
 
 
 
-body {
-  background-color: #9b1c31 !important;
-  background-image: linear-gradient(to bottom, #9b1c31, black) !important;
-}
+
