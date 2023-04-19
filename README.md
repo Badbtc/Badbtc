@@ -1,26 +1,3 @@
- 
- <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-      body {
-        background-color: #9b1c31;
-        background-image: linear-gradient(to bottom, #9b1c31, black);
-        height: 100vh;
-        margin: 0;
-      }
-    </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
- 
-
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=FF0000&width=435&lines=Bad+btc+is+Here++!" alt="Typing SVG" /></a>
 
 
