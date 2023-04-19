@@ -1,11 +1,3 @@
-<style>
-      body {
-        background-color: #9b1c31;
-        background-image: linear-gradient(to bottom, #9b1c31, black);
-        height: 100vh;
-        margin: 0;
-      }
-    </style>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=FF0000&width=435&lines=Bad+btc+is+Here++!" alt="Typing SVG" /></a>
 
@@ -23,3 +15,11 @@ The reason why the maximum number of bitcoins that can ever exist is 21 million 
 The code in this repository is a simple way to illustrate how the block subsidy is calculated and how it gradually decreases over time. It can be used as a starting point for more complex simulations of the Bitcoin protocol, or as a way to understand how the supply of bitcoins is limited. </bold>
 
 
+<style>
+      body {
+        background-color: #9b1c31;
+        background-image: linear-gradient(to bottom, #9b1c31, black);
+        height: 100vh;
+        margin: 0;
+      }
+    </style>
